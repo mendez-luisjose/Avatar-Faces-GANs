@@ -2,7 +2,7 @@
 
 ![](./imgs/avatars_gan.gif)
 
-## Multi Classification Person-Dog-Cat Model with Transfer Learning
+## Avatar Faces Generator Model with TensorFlow
 
 This Deep Convolutional Generative Adversarial Network `(GANs)` generates Avatar Faces.
 
@@ -11,9 +11,9 @@ It was trained with over 20.000 Images, using TensorFlow and the Google Colab GP
 ## Check-it out
 Test the Model by running the `app.py` file, built with `Streamlit`.
 
-The code of the Model is in the  `gans_avatar_faces` file.
+The code of the Model is in the  `gans_avatar_faces.ipynb` file.
 
-<img src="interface.png" width="800"/>
+<img src="./imgs/avatars_preview.png" width="400"/>
 
 ## Run
 ```sh

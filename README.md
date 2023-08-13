@@ -22,3 +22,5 @@ streamlit run app.py
 
 ## Resources
 - Avatar Dataset: https://www.kaggle.com/datasets/soumikrakshit/anime-faces
+  
+- Code Explained: https://mendezluisjose.hashnode.dev/gans-avatar-faces-generator-model
